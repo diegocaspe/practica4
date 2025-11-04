@@ -1,0 +1,21 @@
+footer {
+  background-color: #333; /* Fondo negro oscuro */
+  color: white;           /* Texto blanco */
+  text-align: center;     /* Centra el texto */
+  padding: 20px 0;        /* Espaciado en la parte superior e inferior */
+  font-size: 16px;        /* Tamaño de fuente */
+}
+
+footer p {
+  margin: 0; /* Elimina el margen por defecto */
+  font-weight: 300; /* Ligera disminución del peso de la fuente */
+}
+
+footer a {
+  color: white;        /* Color blanco para los enlaces */
+  text-decoration: none; /* Elimina el subrayado */
+}
+
+footer a:hover {
+  text-decoration: underline; /* Subraya el enlace cuando pasas el ratón por encima */
+}
