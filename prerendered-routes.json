@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "/practica4": {},
+    "/practica4/about": {},
+    "/practica4/contact": {},
+    "/practica4/products": {}
+  }
+}
